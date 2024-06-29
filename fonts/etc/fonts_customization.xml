@@ -21,4 +21,15 @@
     </family>
     <alias name="rubik-medium" to="rubik" weight="500" />
     <alias name="rubik-bold" to="rubik" weight="700" />
+    
+    <family customizationType="new-named-family" name="linotte">
+        <font weight="400" style="normal">Linotte-Regular.ttf</font>
+        <font weight="400" style="italic">Linotte-Italic.ttf</font>
+        <font weight="500" style="normal">Linotte-Medium.ttf</font>
+        <font weight="500" style="italic">Linotte-MediumItalic.ttf</font>
+        <font weight="700" style="normal">Linotte-Bold.ttf</font>
+        <font weight="700" style="italic">Linotte-BoldItalic.ttf</font>
+    </family>
+    <alias name="linotte-medium" to="linotte" weight="500" />
+    <alias name="linotte-bold" to="linotte" weight="700" />
 </fonts-modification>
